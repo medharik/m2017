@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<client >
+<numero_identification>
+	...
+</numero_identification>
+<nom>hari</nom>
+<prenom>med</prenom>
+<codesecret>...</codesecret>
+<solde_en_compte>...</solde_en_compte>
+</client>

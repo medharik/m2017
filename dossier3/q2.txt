@@ -1,0 +1,55 @@
+Un framework désigne en programmation informatique un ensemble d'outils et de composants logiciels à la base d'un logiciel ou d'une application. C'est le framework, ou structure logicielle en français, qui établit les fondations d'un logiciel ou son squelette
+ou 
+
+un ensemble d’outils et de composants logiciels, qui fournit au développeur un squelette de base  pour le développement de sa solution.
+
+avantages :
+=> ensemble de composants (bibliothèques , helper,...) fiables, testés et  résutilisables  
+=> Gestion optimisée de la sécurité , des rôles , base de données , routage, caches,...
+=> Respect des principes du génie logiciel
+=> Respect des normes de codage et de nomage
+=> produire un code de qualité
+=> code plus  structuré (MVC)
+=>développement d'application plus rapide grace à la partie technique (architecture, structure et bibliothèque) permettant ainsi de se concentrer plus sur la logique métier
+=> développement en groupe  plus facile, plus souple  et plus organisé.
+=> maintenace plus facile
+=> disponibilité d'aide grâce  aux  communautés 
+=>améliore la productivité des développeurs 
+Inconvenients :
+
+
+=> nécessite ,en général ,  d'être  un développeur confirmé connaissant les bases du développement des applications
+=> réduit la créativité du développeur , car ce dernier est obligé de suivre la logique du framework , de réutiliser ses composants, respecter sa syntaxe ,  sa structure,...
+=> nécessite un temps d'apprentissage selon la compléxité du framework
+=>pour maîtriser un framework, il faut un temps d'apprentissage non négligeable
+considérations à prendre en compte lorsque l'on décide de développer un logiciel à l'aide d'un framework : 
+=> la compléxité 
+=> communauté active qui utilise le framework et qui contribue en retour  
+=>  documentation de qualité et régulièrement mise à jour 
+=> la popularité 
+=>un support à long terme garanti et des mises à jour qui ne cassent pas la compatibilité 
+
+
+exemples : 
+Framework JAVA :
+SpringMVC
+Hibernate
+Struts
+Spring
+JSF
+
+Framework python :
+Django
+
+
+Framework Perl :
+catalyst
+
+FrameWork PHP :
+Symfony
+Laravel
+CodeIgniter
+YII
+Zend
+cakePHP
+
